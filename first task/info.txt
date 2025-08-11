@@ -1,0 +1,10 @@
+The structure of HTML file is :
+<!DOCTYPE html>   this says the type of document our file is to browser
+<html>   this is the root element in HTML document and head, body are considered as children tags for this.
+    <head>
+        This is used for naming oe defining our website, we can give title, link css, js to our html, define meta tags in this head tag.
+    </head>
+    <body>
+        The content we write in this body tag will be displayed in the webpage (which users can see).
+    </body>
+</html>
